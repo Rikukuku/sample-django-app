@@ -9,5 +9,5 @@
 pipenvを使用
 https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a
 
-## 参考にしたサイト
+## 実装の参考サイト
 https://qiita.com/kaki_k/items/ebc8d8b07434e1721756
